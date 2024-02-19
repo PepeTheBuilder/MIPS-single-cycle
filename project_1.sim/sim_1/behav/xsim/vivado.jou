@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Mon May 29 14:32:23 2023
+# Process ID: 13856
+# Current directory: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.sim/sim_1/behav/xsim
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8000 C:\Users\paulp\project_1\ca-labs-PepeTheBuilder\proiect final\project_1.sim\sim_1\behav\xsim\tb_behav.wdb
+# Log file: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.sim/sim_1/behav/xsim/vivado.log
+# Journal file: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.sim/sim_1/behav/xsim\vivado.jou
+# Running On: DESKTOP-TQ12FG0, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 8341 MB
+#-----------------------------------------------------------
+start_gui
+open_wave_database {C:\Users\paulp\project_1\ca-labs-PepeTheBuilder\proiect final\project_1.sim\sim_1\behav\xsim\tb_behav.wdb}
+add_wave {{/tb/uut/mip/pc/pc_next[9]}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/uut/mip/pc/clk}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/uut/mip/clk}} {{/tb/uut/mip/ALUsrc}} {{/tb/uut/mip/aluop}} {{/tb/uut/mip/to_show}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/uut/mip/pc/counter}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/uut/mip/altu/input2}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/uut/mip/altu/input1}} 
+current_wave_config {Untitled 1}
+add_wave {{/tb/uut/mip/altu/output}} 
+close_sim

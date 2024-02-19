@@ -1,0 +1,13 @@
+0.7
+2020.2
+Feb 21 2023
+20:21:35
+C:/Users/paulp/Downloads/ca-labs-PepeTheBuilder-main/ca-labs-PepeTheBuilder-main/new/SSD.vhd,1680771275,vhdl,,,,ssd,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sim_1/new/tester.vhd,1685339483,vhdl,,,,tb,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/Fetch_Data_path.vhd,1685470397,vhdl,,,,instruction_fetch,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/TataLor.vhd,1685358676,vhdl,,,,tatalor,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/alu.vhd,1685288110,vhdl,,,,alu,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/data_memory.vhd,1685192248,vhdl,,,,memory_unit,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/instructionDecoder.vhd,1685456043,vhdl,,,,instructiondecoder,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/mips16.vhd,1685469521,vhdl,,,,mips16,,,,,,,,
+C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/regFile.vhd,1685470256,vhdl,,,,reg_file,,,,,,,,

@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 20:00:34 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Mon May 29 14:09:21 2023
+# Process ID: 9000
+# Current directory: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6436 C:\Users\paulp\project_1\ca-labs-PepeTheBuilder\proiect final\project_1.xpr
+# Log file: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/vivado.log
+# Journal file: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final\vivado.jou
+# Running On: DESKTOP-TQ12FG0, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 8341 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+open_wave_config C:/Users/paulp/Desktop/paul_petrut.wcfg
+source tb.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/paulp/Desktop/paul_petrut.wcfg
+source tb.tcl
+close_sim
+launch_simulation
+open_wave_config C:/Users/paulp/Desktop/paul_petrut.wcfg
+source tb.tcl
+save_wave_config {C:/Users/paulp/Desktop/paul_petrut.wcfg}
+close_sim

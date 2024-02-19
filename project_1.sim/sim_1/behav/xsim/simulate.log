@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+ERROR: Index 65520 out of bound 0 to 255
+Time: 380 ns  Iteration: 1  Process: /tb/uut/mip/memory/line__20
+  File: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/data_memory.vhd
+
+HDL Line: C:/Users/paulp/project_1/ca-labs-PepeTheBuilder/proiect final/project_1.srcs/sources_1/new/data_memory.vhd:27

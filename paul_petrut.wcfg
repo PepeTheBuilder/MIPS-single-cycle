@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="488.609 ns"></ZoomEndTime>
+      <Cursor1Time time="186.458 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="143"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/btn" type="array">
+      <obj_property name="ElementShortName">btn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">btn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/sw" type="array">
+      <obj_property name="ElementShortName">sw[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/led" type="array">
+      <obj_property name="ElementShortName">led[15:0]</obj_property>
+      <obj_property name="ObjectShortName">led[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/an" type="array">
+      <obj_property name="ElementShortName">an[3:0]</obj_property>
+      <obj_property name="ObjectShortName">an[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/cat" type="array">
+      <obj_property name="ElementShortName">cat[6:0]</obj_property>
+      <obj_property name="ObjectShortName">cat[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/pc/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[15:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/pc/pc_next" type="array">
+      <obj_property name="ElementShortName">pc_next[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pc_next[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/to_show" type="array">
+      <obj_property name="ElementShortName">to_show[15:0]</obj_property>
+      <obj_property name="ObjectShortName">to_show[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/alu_output" type="array">
+      <obj_property name="ElementShortName">alu_output[15:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_output[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/altu/input1" type="array">
+      <obj_property name="ElementShortName">input1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">input1[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/altu/input2" type="array">
+      <obj_property name="ElementShortName">input2[15:0]</obj_property>
+      <obj_property name="ObjectShortName">input2[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/altu/ALUop" type="array">
+      <obj_property name="ElementShortName">ALUop[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUop[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/ALUsrc" type="logic">
+      <obj_property name="ElementShortName">ALUsrc</obj_property>
+      <obj_property name="ObjectShortName">ALUsrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/rd21" type="array">
+      <obj_property name="ElementShortName">rd21[15:0]</obj_property>
+      <obj_property name="ObjectShortName">rd21[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/uut/mip/ext_imm1" type="array">
+      <obj_property name="ElementShortName">ext_imm1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ext_imm1[15:0]</obj_property>
+   </wvobject>
+</wave_config>
